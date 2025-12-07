@@ -1,0 +1,40 @@
+{
+  "urls": [
+    {
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
+      "name": "王小二"
+    },
+    {
+      "url": "http://tv.nxog.top/m",
+      "name": "讴歌"
+    }, 
+    {
+      "url": "https://raw.githubusercontent.com/bizhangjie/CatVodSpider/refs/heads/main/json/index18.json",
+      "name": "内网"
+    },
+    {
+      "url": "http://47.96.82.41:8/api.json",
+      "name": "普通"
+    },
+    {
+      "url": "https://clun.top/fun.json",
+      "name": "内外1"
+    },
+    {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "饭太硬"
+    },
+    {
+      "url": "https://codeberg.org/licade222/1818/raw/branch/main/Lj.josn.txt",
+      "name": "内网2"
+    },
+    {
+      "url": "https://codeberg.org/licade222/1818/raw/branch/main/00.json.txt",
+      "name": "内网1"
+    },
+    {
+      "url": "http://肥猫.com",
+      "name": "肥猫"
+    }
+  ]
+}
